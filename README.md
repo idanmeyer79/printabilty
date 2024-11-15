@@ -60,7 +60,7 @@ The admin dashboard displays key metrics:
 
 Received a Certificate of Excellence from The Academic College of Tel Aviv-Yafo for outstanding work on the Printability project.
 
-![Certificate](https://printabillty-file-uploads.s3.eu-north-1.amazonaws.com/assets/Certificate.pdf)
+![Certificate](https://printabillty-file-uploads.s3.eu-north-1.amazonaws.com/assets/certificate.png)
 
 
 
